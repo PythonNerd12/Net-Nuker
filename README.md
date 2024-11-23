@@ -7,6 +7,10 @@ Disclaimer THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. USE AT YOUR OWN RISK. ANY
 Requirements Python A PC or laptop. a brain.
 
 
+
+theres also a preloaded token to save you time :D
+
+
 this is a virus free version i removed all the malware if u find some pls make an issue and i will take a look and reupload
 
 
