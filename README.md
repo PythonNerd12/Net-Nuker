@@ -14,4 +14,11 @@ Requirements Python A PC or laptop. a brain.
 this is a virus free version i removed all the malware if u find some pls make an issue and i will take a look and reupload
 
 
+
+2nd disclaimer, i didnt orgin code it i just removed the malware, so credits to the following for making the code besides the hidden payload.
+
+
+vast,onulf, sariusma, someone else i forget
+
+
 u can take alook at main.py for the code 
